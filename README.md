@@ -5,8 +5,4 @@
 
 ##
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg)](https://github.com/ayushgrrg/github-readme-stats)
-
-##
-(https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true)
-
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true)
