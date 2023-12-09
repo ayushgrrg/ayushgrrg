@@ -3,6 +3,15 @@
 - 🌱 I’m currently learning React and Tailwind CSS
 - 💞️ I’m looking to collaborate on New Projects
 
+<img
+  align="right"
+  alt="coding"
+  width="333px"
+  height="248px"
+  ;
+  src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"
+/>
+
 <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
