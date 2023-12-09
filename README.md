@@ -11,4 +11,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=Acme-rockets)](https://github.com/ayushgrrg/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=recipe-mern)](https://github.com/ayushgrrg/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgrrg&layout=donut-vertical)](https://github.com/ayushgrrg/github-readme-stats)
+
 
