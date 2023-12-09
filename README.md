@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on New Projects
 
 ##
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg)](https://github.com/ayushgrrg/github-readme-stats)
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true&theme=radical)
