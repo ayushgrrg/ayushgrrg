@@ -1,6 +1,7 @@
 <h1>👋 Hi, I’m @ayushgrrg</h1>
 <h4>Interested in Front End Development, currently learning React and Tailwind CSS and looking to collaborate on New Projects.</h4>
-![giphy](https://github.com/ayushgrrg/ayushgrrg/assets/giphy.gif)
+![giphy](https://github.com/ayushgrrg/ayushgrrg/assets/147721851/271e1199-316b-40d1-b5a8-442ab87795fa)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-garg-a01432219/" target="blank"
