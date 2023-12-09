@@ -1,18 +1,5 @@
-- 👋 Hi, I’m @ayushgrrg
-- 👀 I’m interested Front End Development
-- 🌱 I’m currently learning React and Tailwind CSS
-- 💞️ I’m looking to collaborate on New Projects
-
-<img
-  align="right"
-  alt="coding"
-  width="333px"
-  height="248px"
-  ;
-  src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"
-/>
-
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<h1>👋 Hi, I’m @ayushgrrg</h1>
+<h4>Interested in Front End Development, currently learning React and Tailwind CSS and looking to collaborate on New Projects.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +19,52 @@
       height="30"
       width="40"
   /></a>
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true&theme=radical)
 ##
