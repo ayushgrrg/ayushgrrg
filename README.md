@@ -67,11 +67,11 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgrrg&show_icons=true&theme=radical)
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=personal-portfolio)](https://github.com/ayushgrrg/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=hoo-bank)](https://github.com/ayushgrrg/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=personal-portfolio)](https://github.com/ayushgrrg/personal-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=hoo-bank)](https://github.com/ayushgrrg/hoo-bank)
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=Acme-rockets)](https://github.com/ayushgrrg/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=recipe-mern)](https://github.com/ayushgrrg/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=Acme-rockets)](https://github.com/ayushgrrg/Acme-rockets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgrrg&repo=recipe-mern)](https://github.com/ayushgrrg/recipe-mern)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgrrg&layout=donut-vertical)](https://github.com/ayushgrrg/github-readme-stats)
 
